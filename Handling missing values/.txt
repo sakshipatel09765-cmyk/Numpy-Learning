@@ -1,0 +1,7 @@
+handling missing value is efficient step in data handling
+we use builtin function
+1. np.isnan -> detect missing values
+2. np.nan_to_num()
+3. np.isinf() -> to detect infinite values
+
+nan -> not a number -> return boolean value
